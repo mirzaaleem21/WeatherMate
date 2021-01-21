@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/WeatherMate/static/css/main.0a9f73f6.chunk.css",
+    "main.js": "/WeatherMate/static/js/main.c9910a25.chunk.js",
+    "main.js.map": "/WeatherMate/static/js/main.c9910a25.chunk.js.map",
+    "runtime-main.js": "/WeatherMate/static/js/runtime-main.8076711f.js",
+    "runtime-main.js.map": "/WeatherMate/static/js/runtime-main.8076711f.js.map",
+    "static/js/2.8122407a.chunk.js": "/WeatherMate/static/js/2.8122407a.chunk.js",
+    "static/js/2.8122407a.chunk.js.map": "/WeatherMate/static/js/2.8122407a.chunk.js.map",
+    "static/js/3.3b6f0354.chunk.js": "/WeatherMate/static/js/3.3b6f0354.chunk.js",
+    "static/js/3.3b6f0354.chunk.js.map": "/WeatherMate/static/js/3.3b6f0354.chunk.js.map",
+    "index.html": "/WeatherMate/index.html",
+    "static/css/main.0a9f73f6.chunk.css.map": "/WeatherMate/static/css/main.0a9f73f6.chunk.css.map",
+    "static/js/2.8122407a.chunk.js.LICENSE.txt": "/WeatherMate/static/js/2.8122407a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8076711f.js",
+    "static/js/2.8122407a.chunk.js",
+    "static/css/main.0a9f73f6.chunk.css",
+    "static/js/main.c9910a25.chunk.js"
+  ]
+}
